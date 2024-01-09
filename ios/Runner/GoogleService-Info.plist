@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>413817509461-2hea5430gme95pu9tr0itgjo3q23oleq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.413817509461-2hea5430gme95pu9tr0itgjo3q23oleq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>413817509461-b7jbgsaaocifn6gjt21eule3ham9fthg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXlvhiyCTtY-4ZcBT2a-0FFM4j6zA_a8k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>413817509461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ashryupp.app</string>
+	<key>PROJECT_ID</key>
+	<string>ashry-81eaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ashry-81eaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:413817509461:ios:cead3528c61fab39c926dc</string>
+</dict>
+</plist>
