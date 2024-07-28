@@ -140,17 +140,7 @@ class _SignInScreenState extends State<SignInScreen> {
 
                     const Spacer(),
 
-                    Align(
-                      alignment: Alignment.centerRight,
-                      child: TextButton(
-                        onPressed: () {
-                          Get.to(() => const ForgotPasswordScreen());
-                        },
-                        child: Text('forgot_password'.tr, style: textRegular.copyWith(
-                          fontSize: Dimensions.fontSizeSmall, color: Theme.of(context).primaryColor,
-                        )),
-                      ),
-                    ),
+
                   ]),
 
                   authController.isLoading ?  Center(child: SpinKitCircle(color: Theme.of(context).primaryColor, size: 40.0,)) : ButtonWidget(
@@ -177,23 +167,6 @@ class _SignInScreenState extends State<SignInScreen> {
                     radius: 50,
                   ),
 
-                  Row(children: [
-                    const Expanded(child: Divider(thickness: .125,)),
-                    Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: Dimensions.paddingSizeSmall,vertical: 8),
-                      child: Text('or'.tr ,style: textRegular.copyWith(color: Theme.of(context).hintColor),),
-                    ),
-                    const Expanded(child: Divider(thickness: .125,)),
-                  ]),
-                  ButtonWidget(
-                    showBorder: true,
-                    borderWidth: 1,
-                    transparent: true,
-                    buttonText: 'otp_login'.tr,
-                    onPressed: () => Get.to(() => const OtpLoginScreen(fromSignIn: true)),
-                    radius: 50,
-                  ),
-                  const SizedBox(height: Dimensions.paddingSizeDefault),
 
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
