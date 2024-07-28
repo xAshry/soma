@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "925535730322",
+    "firebase_url": "https://auser-e7cd9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auser-e7cd9",
+    "storage_bucket": "auser-e7cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925535730322:android:2bce4261c79a4b1f3b844b",
+        "android_client_info": {
+          "package_name": "com.ashryup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925535730322-f1t561abu563r601clfbd88m3avqkb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn4pTp6AL1p0pXdjKFAiUyOWDWzeKWZc"
+        },
+        {
+          "current_key": "AIzaSyB0pHPsMOSTgKmmWHJb7L49h6yNPD0Xi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925535730322-f1t561abu563r601clfbd88m3avqkb6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925535730322-5jkhbsghecduq2oeg0h254lk46fp7s2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ashryuppdriver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925535730322:android:02a6b54ef1b6bd303b844b",
+        "android_client_info": {
+          "package_name": "com.ashryupdriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925535730322-f1t561abu563r601clfbd88m3avqkb6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn4pTp6AL1p0pXdjKFAiUyOWDWzeKWZc"
+        },
+        {
+          "current_key": "AIzaSyB0pHPsMOSTgKmmWHJb7L49h6yNPD0Xi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925535730322-f1t561abu563r601clfbd88m3avqkb6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925535730322-5jkhbsghecduq2oeg0h254lk46fp7s2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ashryuppdriver.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
